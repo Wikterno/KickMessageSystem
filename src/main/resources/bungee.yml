@@ -1,0 +1,7 @@
+name: KickMessageSystem
+version: '${project.version}'
+main: pl.wikterno.kickmessagesystem.KickMessageSystem
+author: Wikterno
+
+depends:
+  - Protocolize
